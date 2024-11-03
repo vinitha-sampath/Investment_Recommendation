@@ -1,5 +1,5 @@
 # Investment_Recommendation
-The Investment Recommendation System provides personalized insights across stocks, gold, and real estate, empowering users to make informed investment decisions.![image](https://github.com/user-attachments/assets/96ac3bf8-a5be-443a-9c7c-5b8a7b4e5f6b)
+The Investment Recommendation System provides personalized insights across stocks, gold, and real estate, empowering users to make informed investment decisions.
 
 ## Problem Statement:
 Many individuals lack personalized guidance in making investment decisions. There is a need for an automated system that caters to diverse financial backgrounds and goals.
