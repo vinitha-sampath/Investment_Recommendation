@@ -4,7 +4,7 @@
 
 Many individuals lack personalized guidance in making investment decisions. There is a need for an automated system that caters to diverse financial backgrounds and goals.
 
-### How can personalized investment recommendations be automated to aid individual financial decision-making?
+#### How can personalized investment recommendations be automated to aid individual financial decision-making?
 
 ## Impact:
 
