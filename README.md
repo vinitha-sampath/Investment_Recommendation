@@ -11,4 +11,4 @@ Financial planning affects individuals' economic security. Improved recommendati
 ## Objective:
 To develop a model that provides personalized investment options based on user demographics, goals, and financial behavior.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/96f67c64-58f2-4e4e-b833-821504254a2c)
