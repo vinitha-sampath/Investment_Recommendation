@@ -6,15 +6,15 @@ import matplotlib.pyplot as plt
 import requests
 
 # Paths to your CSV and stock data for US and AUS
-stock_prediction_csv_us = "C:\\Users\\Vinitha\\Desktop\\Capstone_project\\Main\\stock_prediction_US.csv"
-stock_data_path_us = "C:\\Users\\Vinitha\\Desktop\\Capstone_project\\Main\\Stocks_data\\us\\"
+stock_prediction_csv_us = 'path'
+stock_data_path_us = 'path'
 
-stock_prediction_csv_aus = "C:\\Users\\Vinitha\\Desktop\\Capstone_project\\Main\\stock_prediction_AUS.csv"
-stock_data_path_aus = "C:\\Users\\Vinitha\\Desktop\\Capstone_project\\Main\\Stocks_data\\aus\\"
+stock_prediction_csv_aus = 'path'
+stock_data_path_aus = 'path'
 
-gold_prediction_csv = "C:\\Users\\Vinitha\\Desktop\\Capstone_project\\Main\\gold_pred.csv"
+gold_prediction_csv = 'path'
 
-html_file_path = "C:\\Users\\Vinitha\\Desktop\\Capstone_project\\Main\\Growth_Areas_Map.html"
+html_file_path = 'path'
 
 # Streamlit app layout
 st.title("Investment Recommendation System")
@@ -125,7 +125,7 @@ def analyze_investments(income_level, savings_level):
 # Recommendations Section
 if sidebar_option == "Recommendations":
     	# Display the image at the top
-    st.image("C:\\Users\\Vinitha\\Desktop\\Capstone_project\\Main\\image.jpg", width=300)
+    st.image('path', width=300)
     st.subheader("Personalized Investment Recommendations")
 
     # User input for recommendations
@@ -321,7 +321,7 @@ if sidebar_option == "Real Estate Recommendations":
     st.write("### Areas of Growth in NSW:")
     
     # Path to the HTML file
-    html_file_path = "C:\\Users\\Vinitha\\Desktop\\Capstone_project\\Main\\Growth_Areas_Map.html"
+    html_file_path = 'path'
     
     if os.path.exists(html_file_path):
         with open(html_file_path, 'r', encoding='utf-8') as f:
@@ -354,7 +354,7 @@ elif sidebar_option == "How to Invest?":
     st.write("9. **Track Your Portfolio**: Keep documentation and review investments regularly.")
     st.write("10. **Exit Strategy**: Know how to access funds and any withdrawal fees.")
 
-    st.write("For more resources on investing, visit [MoneySmart](https://moneysmart.gov.au/).")
+    st.write("For more resources on investing, visit [MoneySmart]('path').")
     
 # About Section
 elif sidebar_option == "About":
