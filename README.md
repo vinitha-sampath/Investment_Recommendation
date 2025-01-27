@@ -1,6 +1,7 @@
 # Investment_Recommendation
 The Investment Recommendation System provides personalized insights across stocks, gold, and real estate, empowering users to make informed investment decisions.
 
+Presentation: https://youtu.be/sgkypdmdCAU?si=bPTaeAch3V6fowto
 App: https://www.youtube.com/watch?v=IhkaMlWxkGY&t=22s
 
 ## Problem Statement:
